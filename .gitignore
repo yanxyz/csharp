@@ -1,0 +1,11 @@
+# pages preview
+_site
+.sass-cache
+.jekyll-metadata
+/_config.yml
+/Gemfile
+/Gemfile.lock
+
+/_images
+/_temp
+/*.sublime-*
