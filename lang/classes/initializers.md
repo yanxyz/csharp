@@ -1,7 +1,3 @@
----
-permalink: /lang/initializers/
----
-
 # C# Initializers
 
 ## Object initializers

@@ -1,7 +1,3 @@
----
-permalink: /lang/booleans/
----
-
 # C# Booleans
 
 两个值：true 和 false。

@@ -1,7 +1,3 @@
----
-permalink: /lang/using/
----
-
 # C# using
 
 ## using Directive

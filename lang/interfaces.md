@@ -1,7 +1,3 @@
----
-permalink: /lang/interfaces/
----
-
 # C# Interfaces
 
 interface 定义一个约定，然后由 class/struct 具体实现。

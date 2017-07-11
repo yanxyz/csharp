@@ -1,7 +1,3 @@
----
-permalink: /lang/fields/
----
-
 # C# Fields
 
 [Fields (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields)

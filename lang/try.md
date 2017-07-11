@@ -1,7 +1,3 @@
----
-permalink: /lang/try/
----
-
 # C# try...catch...finally
 
 `try` 捕获 exception。

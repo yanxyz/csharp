@@ -1,7 +1,3 @@
----
-permalink: /lang/tuples/
----
-
 # C# Tuples
 
 `Tuple<T>`

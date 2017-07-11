@@ -1,7 +1,3 @@
----
-permalink: /lang/throw/
----
-
 # C# throw
 
 `throw` 抛出 exception

@@ -1,7 +1,3 @@
----
-permalink: /lang/classes/
----
-
 # C# Classes
 
 ```cs

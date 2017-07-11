@@ -1,7 +1,3 @@
----
-permalink: /lang/indexers/
----
-
 # C# Indexers
 
 [Indexers (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/indexers/index)

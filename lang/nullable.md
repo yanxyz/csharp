@@ -1,7 +1,3 @@
----
-permalink: /lang/nullable/
----
-
 # C# Nullable Types
 
 ```cs

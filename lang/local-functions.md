@@ -1,7 +1,3 @@
----
-permalink: /lang/local-functions/
----
-
 # C# Local Functions
 
 [Local functions](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7#local-functions)

@@ -1,7 +1,3 @@
----
-permalink: /lang/constructors/
----
-
 # C# Constructors
 
 constructor 的名字与 class 一样，没有返回值。

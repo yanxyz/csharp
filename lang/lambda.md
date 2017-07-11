@@ -1,7 +1,3 @@
----
-permalink: /lang/lambda/
----
-
 ## Lambda Expressions
 
 

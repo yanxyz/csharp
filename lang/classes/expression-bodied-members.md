@@ -1,7 +1,3 @@
----
-permalink: /lang/expression-bodied-members/
----
-
 # Expression-bodied members
 
 [Expression-bodied members (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members)

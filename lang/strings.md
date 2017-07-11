@@ -1,14 +1,10 @@
----
-permalink: /lang/strings/
----
-
 # C# Strings
 
 Strings 使用双引号，使用单引号的是 Char(System.Char struct)。
 
 Strings 由 chars 组成。str.Length 返回 strings 包含的 chars 的个数。
 
-### Literal strings
+### Verbatim strings
 
 ```cs
 string message = @"
@@ -16,6 +12,13 @@ hello
 world"
 
 string message = @"".\a b\"""
+```
+
+Verbatim strings 单个 `"` 用两个 `""` 表示
+
+```cs
+var str = @"""I don't think so."" he said.";
+Console.WriteLine(str);
 ```
 
 ### Interpolated Strings
@@ -29,6 +32,8 @@ var name = "Yan"
 var age = 30;
 Console.WriteLine($"{name} is {age:D3} year{(age == 1 ? "" : "s")} old.");
 ```
+
+Interpolated Verbatim Strings
 
 ```cs
 var user = "yan";

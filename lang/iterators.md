@@ -1,7 +1,3 @@
----
-permalink: /lang/iterators/
----
-
 # C# Iterators
 
 [Iterators (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)

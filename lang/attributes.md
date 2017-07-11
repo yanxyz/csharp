@@ -1,7 +1,3 @@
----
-permalink: /lang/attributes/
----
-
 # C# Attributes
 
 attributes 为 members 添加附加信息。

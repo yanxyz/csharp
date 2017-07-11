@@ -1,7 +1,3 @@
----
-permalink: /lang/virtual/
----
-
 # C# virtual modifier
 
 [多态](polymorphism.md)

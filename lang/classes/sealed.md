@@ -1,7 +1,3 @@
----
-permalink: /lang/sealed/
----
-
 # C# sealed modifier
 
 sealed class 不能继承。

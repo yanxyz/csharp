@@ -1,7 +1,3 @@
----
-permalink: /lang/properties/
----
-
 # C# Properties
 
 property 使用一个 field（通常是 private）作为 backing store，包含两个 accessors

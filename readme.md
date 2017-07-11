@@ -1,3 +1,4 @@
-# CSharp
+# csharp
 
-[我的 C# 笔记](https://yanxyz.github.io/csharp/)
+- [在线阅读](https://yanxyz.github.io/csharp/)
+- [本地预览](https://yanxyz.github.io/github/github-pages/preview/)

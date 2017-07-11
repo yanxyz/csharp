@@ -1,7 +1,3 @@
----
-permalink: /lang/basics/
----
-
 # C# Basics
 
 标识符区分大小写。
@@ -27,3 +23,7 @@ permalink: /lang/basics/
 /// </summary>
 public class MyClass {}
 ```
+
+注释惯例
+
+[CommentsPlus - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mhoumann.CommentsPlus)

@@ -1,7 +1,3 @@
----
-permalink: /lang/polymorphism/
----
-
 # C# 多态
 
 [Polymorphism (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism)

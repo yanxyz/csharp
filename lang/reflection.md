@@ -1,7 +1,3 @@
----
-permalink: /lang/reflection/
----
-
 # C# Reflection
 
 [Reflection (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)

@@ -1,7 +1,3 @@
----
-permalink: /lang/operators/
----
-
 # C# 0perators
 
 class/struct 可以覆盖内置操作符，或者自定义 conversion operators。

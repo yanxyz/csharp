@@ -1,7 +1,3 @@
----
-permalink: /regex/
----
-
 # Regex
 
 [.NET Framework Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions)

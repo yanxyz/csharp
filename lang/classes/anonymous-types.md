@@ -1,7 +1,3 @@
----
-permalink: /lang/anonymous-types/
----
-
 # C# Anonymous Types
 
 匿名类型，形式为 object initializers，没有名字。

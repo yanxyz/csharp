@@ -1,7 +1,3 @@
----
-permalink: /lang/new-modifier/
----
-
 # C# new Modifier
 
 [new Modifier (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/new-modifier)

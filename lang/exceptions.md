@@ -1,7 +1,3 @@
----
-permalink: /lang/exceptions/
----
-
 # C# Exceptions
 
 - [`throw`](throw.md) 抛出 exception

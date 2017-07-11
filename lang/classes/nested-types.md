@@ -1,7 +1,3 @@
----
-permalink: /lang/nested-types/
----
-
 # C# Nested Types
 
 定义在 class 内的 type 称为 nested type。

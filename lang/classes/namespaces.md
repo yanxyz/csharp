@@ -1,7 +1,3 @@
----
-permalink: /lang/namespaces/
----
-
 # C# Namespaces
 
 C# Namespaces 以 `.` 为分隔符，如 `System.Collections.Generic`

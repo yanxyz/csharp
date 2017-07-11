@@ -1,7 +1,3 @@
----
-permalink: /lang/static/
----
-
 # C# static modifier
 
 static modifier 可以用于 classes, 以及除 constants, indexers, destructors 之外的 class members。

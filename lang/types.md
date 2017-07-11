@@ -1,10 +1,6 @@
----
-permalink: /lang/types/
----
-
 # C# Types
 
-[Types (C# Programming Guide) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/)
+[Types (C# Programming Guide) - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/)
 
 所有的 types 都继承自 System.Object：
 
@@ -36,6 +32,11 @@ int y = (int)x;
 ```
 
 转换失败将抛出 InvalidCastException 异常。可以使用 is 或 as 操作符转换，避免抛出异常。is 返回 bool；
+
+```cs
+x is T // 若 x 是 T 的实例则返回 true, 否则返回 false
+x as T //  Return x typed as T, or null if x is not a T
+```
 
 ```cs
 Console.WriteLine("abc" is int);

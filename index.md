@@ -2,4 +2,3 @@
 
 - [C# Language](lang/index.md)
 - [.NET Framework](dotnet/index.md)
-- [WPF](wpf/index.md)

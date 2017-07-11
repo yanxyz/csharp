@@ -1,7 +1,3 @@
----
-permalink: /lang/var/
----
-
 # C# var keyword
 
 用 var 声明变量，不指定变量 type，由 compiler 去推断。

@@ -1,7 +1,3 @@
----
-permalink: /lang/enums/
----
-
 # C# Enums
 
 Enum 定义一组具名离散值

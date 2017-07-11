@@ -1,7 +1,3 @@
----
-permalink: /lang/abstract/
----
-
 # C# abstract modifier
 
 classes, methods, properties, indexers, events 可以声明为 abstract。

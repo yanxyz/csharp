@@ -1,7 +1,3 @@
----
-permalink: /lang/inheritance/
----
-
 # C# Inheritance
 
 [Inheritance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance)

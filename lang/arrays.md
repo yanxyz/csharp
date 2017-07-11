@@ -1,7 +1,3 @@
----
-permalink: /lang/arrays/
----
-
 # C# Arrays
 
 single-dimensional array，一维数组
